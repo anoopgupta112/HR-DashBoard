@@ -1,5 +1,5 @@
 # HR-DashBoard
-It's sample database, I choose 'HR Analytics Data' for analysis &amp; visualization.In order to visualize this I used Microsoft PowerBI.
+It's a simple database, I chose 'HR Analytics Data' for analysis &amp; visualization. In order to visualize this I used Microsoft PowerBI.
 
 
 #### Data: "HR Analytics Data.csv"
