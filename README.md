@@ -1,11 +1,10 @@
 # HR-DashBoard
 It's a simple database, I chose 'HR Analytics Data' for analysis &amp; visualization. In order to visualize this I used Microsoft PowerBI.
 
+#### LinkedIn Post (Project Overview video): https://www.linkedin.com/posts/ac-gupta-dev_powerbi-hranalytics-dataanalysis-activity-7132784076394049536-XNoL?utm_source=share&utm_medium=member_desktop
 
 #### Data: "HR Analytics Data.csv"
 #### Visualization Tool: "Microsoft Power BI"
-
-## LinkedIn Post (Project Overview video): https://www.linkedin.com/posts/ac-gupta-dev_powerbi-hranalytics-dataanalysis-activity-7132784076394049536-XNoL?utm_source=share&utm_medium=member_desktop
 
 ## DATA VISUALIZATION
 ##### i. Home Screen
